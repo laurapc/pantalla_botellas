@@ -5,7 +5,10 @@ A simple way to make a screen out of bottles, and an Arduino (or soon a Raspberr
 
 
 ## What you'll need 
-
+* An Arduino (We used an Arduino Uno)
+* WS2801 or 2811 LED strips
+* Transparent 355 mL glass bottles (Corona, Club Mate)
+* Aluminium Foil
 
 ## Installing 
 
