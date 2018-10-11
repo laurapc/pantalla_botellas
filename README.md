@@ -11,7 +11,7 @@ A simple way to make a screen out of bottles, and an Arduino (or soon a Raspberr
 
 
 ## Authors
-[moisotico](https://github.com/moisotico) 
-[laurapc](https://github.com/laurapc)
-[Hillaryblanco] (https://github.com/hillaryblanco)
+* [moisotico](https://github.com/moisotico) 
+* [laurapc](https://github.com/laurapc)
+* [Hillaryblanco] (https://github.com/hillaryblanco)
 
